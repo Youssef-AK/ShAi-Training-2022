@@ -29,7 +29,8 @@ the following methods that were used :
 
 As an Example : We can see how K-Means clustered our customers to 4 Groups and how well it is balanced.
 
-![KMeans-distribution](https://user-images.githubusercontent.com/40705538/188843432-98c29745-ed14-46da-b920-7970b25f4a30.png)
 ![KMeans-ScatterPlot](https://user-images.githubusercontent.com/40705538/188843436-6a4c2045-4217-4adf-aa6f-b9cb5a7c6a05.png)
+
+![KMeans-distribution](https://user-images.githubusercontent.com/40705538/188843432-98c29745-ed14-46da-b920-7970b25f4a30.png)
 
 for more information kindly check the full project on Drive : https://lnkd.in/dmQfA5sn
