@@ -10,6 +10,9 @@ and some values were Missing at Random so imputed with Multivariate imputer
 
 for skewness we transform our data with Log-Transformer & Powertransformer they worked fine (as usual we tried other transformers but didn't work like log, power transformers) to make approx. all information is equality represented (as we can see from the below graph.)
 
+![Skewness_compare](https://user-images.githubusercontent.com/40705538/188843380-18787593-45b1-4a9d-b013-d466d75187b8.png)
+
+
 Down to Clustering Algorithms we chose different clustering methods that have different inferences and computations of what constitutes a cluster and how to efficiently find them, which allows us to observe various approaches to inferring clusters from the data.
 
 the following methods that were used :
@@ -25,5 +28,8 @@ the following methods that were used :
   - n_components : 4
 
 As an Example : We can see how K-Means clustered our customers to 4 Groups and how well it is balanced.
+
+![KMeans-distribution](https://user-images.githubusercontent.com/40705538/188843432-98c29745-ed14-46da-b920-7970b25f4a30.png)
+![KMeans-ScatterPlot](https://user-images.githubusercontent.com/40705538/188843436-6a4c2045-4217-4adf-aa6f-b9cb5a7c6a05.png)
 
 for more information kindly check the full project on Drive : https://lnkd.in/dmQfA5sn
